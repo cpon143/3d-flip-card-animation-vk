@@ -5,8 +5,8 @@
     perspective: 800px;
 }
 .card{
-    width:500px;
-    height:500px;
+    width:800px;
+    height:800px;
     transform-style: preserve-3d;
     position: relative;
     transition: transform .75s
@@ -14,7 +14,7 @@
 
 }
 .card__image{
-    width:100%;
+    width:800px;
     height:800px;
     border-radius: 50px;
     position:absolute;
